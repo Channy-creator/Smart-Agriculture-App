@@ -1,6 +1,4 @@
-# gevero
-
-A new Flutter project.
+Smart Agriculture App 
 
 ## Getting Started
 
